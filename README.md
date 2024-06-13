@@ -1,4 +1,3 @@
 # PHP
-treinamento PHP
+treinamento Salario PHP
 
-Salario PHP
